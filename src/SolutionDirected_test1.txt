@@ -1,0 +1,6 @@
+5 queries and there solutions: 
+4 5 1 0.8 
+4 7 0.923 
+5 7 2 0 Infinity 
+0 7 0.623 
+7 0 Infinity 
